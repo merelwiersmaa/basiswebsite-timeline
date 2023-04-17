@@ -1,7 +1,7 @@
 # basiswebsite-timeline
  Mijn werk voor het vak Interface & Interactie.
 
-Dag 1: Animatie en concept keuze
+**Dag 1: Animatie en concept keuze**
 
 Als eerst heb ik een beetje gespeeld met css animatie op codepen, nu zijn de basics weer opgehelderd voor mij en kan ik mij hier altijd nog verder in verdiepen. 
 
