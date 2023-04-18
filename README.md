@@ -16,3 +16,7 @@ Inspiratie:
 **Dag 2: Eerste idee voor mijn concept + feedback**
 
 <img width="731" alt="Screenshot 2023-04-18 at 09 41 40" src="https://user-images.githubusercontent.com/83574654/232706847-5f7e5b0a-33f3-43eb-8356-f7d5d36df03f.png">
+
+Progressie coderen:
+<img width="1285" alt="Screenshot 2023-04-18 at 11 49 21" src="https://user-images.githubusercontent.com/83574654/232744126-e7503b1b-dd39-46d4-9bca-8d9bb401e7d5.png">
+<img width="679" alt="Screenshot 2023-04-18 at 12 03 45" src="https://user-images.githubusercontent.com/83574654/232744149-e363d45a-b31c-4a8a-8d61-f1975daa54f5.png">
