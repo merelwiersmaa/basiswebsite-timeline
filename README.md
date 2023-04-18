@@ -21,6 +21,10 @@ Progressie coderen:
 <img width="1107" alt="Screenshot 2023-04-18 at 12 05 10" src="https://user-images.githubusercontent.com/83574654/232744512-eeed77b8-d4b4-4f41-8f8a-f57dcee80d68.png">
 <img width="679" alt="Screenshot 2023-04-18 at 12 03 45" src="https://user-images.githubusercontent.com/83574654/232744149-e363d45a-b31c-4a8a-8d61-f1975daa54f5.png">
 
+Obstakel:
+<img width="574" alt="Screenshot 2023-04-18 at 12 26 28" src="https://user-images.githubusercontent.com/83574654/232749885-96bf0e37-f1cc-403e-a727-1838e2dfda8c.png">
+<img width="406" alt="Screenshot 2023-04-18 at 12 26 38" src="https://user-images.githubusercontent.com/83574654/232749895-033f4426-811a-49aa-bd7b-889c86f971ab.png">
+
 
 Bronvermelding:
 
