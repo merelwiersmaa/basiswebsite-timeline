@@ -24,7 +24,8 @@ button:not([disabled]) {
 /*********************/
 
 :root {
-  --color-headings:crimson
+  --color-kaarttafel:rgb(164, 7, 39);
+  --color-cards:rgb(235, 223, 196);
 }
 
 
@@ -36,10 +37,39 @@ button:not([disabled]) {
 /********************/
 
 h1 {
-  color:var(--color-headings);
+  color:var(--color-cards);
 }
 
+section {
+  background-color: var(--color-kaarttafel);
+  padding: 10em 5em 10em 5em;
+}
+ul {
+  display: flex;
+  gap: 5em;
+  flex-wrap: wrap;
+  /* flex-flow: row wrap; */
+}
 
-/* ... */
+li {
+  list-style: none;
+  background-color: var(--color-cards);
+  height: 13em;
+  width: 9em;
+  /* flex-basis: 20%; */
+  border-radius: .5em;
+  box-shadow: inset 3px 3px 3px white, 0px 5px 10px black;
+  /* box-shadow: inset -5px -5px 1px white; */
+}
+
+li:hover {
+  cursor:pointer;
+  transform: rotatey(180deg);
+  animation-duration: 1s;
+}
+/* GELUKT: de positionering van de kaarten lukte me niet helemaal,
+heb het ook nog geprobeerd met grid, maar uiteindelijk gebleven bij flexbox.
+de doorslaggevende stappen waren de flex-wrap, gap en padding */
+
 
 
