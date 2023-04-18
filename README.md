@@ -20,3 +20,9 @@ Inspiratie:
 Progressie coderen:
 <img width="1107" alt="Screenshot 2023-04-18 at 12 05 10" src="https://user-images.githubusercontent.com/83574654/232744512-eeed77b8-d4b4-4f41-8f8a-f57dcee80d68.png">
 <img width="679" alt="Screenshot 2023-04-18 at 12 03 45" src="https://user-images.githubusercontent.com/83574654/232744149-e363d45a-b31c-4a8a-8d61-f1975daa54f5.png">
+
+
+Bronvermelding:
+
+![icons8-joker-dc-32](https://user-images.githubusercontent.com/83574654/232747592-245cac76-1e8e-4645-94a9-9fa317e1b7c2.png)
+<a target="_blank" href="https://icons8.com/icon/77992/joker-dc">Joker DC</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
