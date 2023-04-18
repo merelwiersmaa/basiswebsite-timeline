@@ -13,5 +13,5 @@ Inspiratie:
 
 <img width="796" alt="Screenshot 2023-04-18 at 09 44 13" src="https://user-images.githubusercontent.com/83574654/232707637-af421d8f-41c0-417a-af02-6cc9f5d08cee.png">
 
-Dag 2: Eerste idee voor mijn concept + feedback
+**Dag 2: Eerste idee voor mijn concept + feedback**
 <img width="731" alt="Screenshot 2023-04-18 at 09 41 40" src="https://user-images.githubusercontent.com/83574654/232706847-5f7e5b0a-33f3-43eb-8356-f7d5d36df03f.png">
