@@ -41,3 +41,7 @@ Ik heb de rode tafel een tafelrand en inset shadows gegeven, zodat het een reali
 - www.css-tricks.com
 
 - www.w3schools.com
+
+- https://geekculture.co/the-evolution-of-the-joker-infographic/
+
+- https://mindpotentialpower.com/the-joker-personality-type/
