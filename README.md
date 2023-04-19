@@ -35,7 +35,9 @@ Ik heb de rode tafel een tafelrand en inset shadows gegeven, zodat het een reali
 
 **Bronvermelding:**
 
-![icons8-joker-dc-32](https://user-images.githubusercontent.com/83574654/232747592-245cac76-1e8e-4645-94a9-9fa317e1b7c2.png)
+- ![icons8-joker-dc-32](https://user-images.githubusercontent.com/83574654/232747592-245cac76-1e8e-4645-94a9-9fa317e1b7c2.png)
 <a target="_blank" href="https://icons8.com/icon/77992/joker-dc">Joker DC</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
-www.css-tricks.com 
-www.w3schools.com
+
+- www.css-tricks.com
+
+- www.w3schools.com
