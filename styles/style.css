@@ -26,6 +26,7 @@ button:not([disabled]) {
 :root {
   --color-kaarttafel:rgb(164, 7, 39);
   --color-cards:rgb(235, 223, 196);
+  --color-tafelrand:rgb(238, 191, 120);
 }
 
 
@@ -42,8 +43,15 @@ h1 {
 
 section {
   background-color: var(--color-kaarttafel);
-  padding: 10em 5em 10em 5em;
+  padding: 10em 10em 10em 10em;
+  border-radius: 40em/5em;/* https://css-tricks.com/almanac/properties/b/border-radius/ */
+  /* border-radius: 30em 30em 0em 0em; */
+  border-style: ridge;
+  border-width: 20px;
+  border-color: var(--color-tafelrand);
+  box-shadow: inset 0px 5px 20px 5px black;
 }
+
 ul {
   display: flex;
   gap: 5em;
@@ -59,13 +67,16 @@ li {
   /* flex-basis: 20%; */
   border-radius: .5em;
   box-shadow: inset 3px 3px 3px white, 0px 5px 10px black;
-  /* box-shadow: inset -5px -5px 1px white; */
+  padding: 5.5em 2.5em;
+  /* de li tekst/plaatje wil ik in het midden van de kaart krijgen,
+  en ik weet dat dat niet mag met padding dus ik ga even kijken
+  hoe dat anders kan*/
 }
 
 li:hover {
   cursor:pointer;
-  transform: rotatey(180deg);
-  animation-duration: 1s;
+  transform: rotatey(360deg);
+  transition-duration: 2s;
 }
 /* GELUKT: de positionering van de kaarten lukte me niet helemaal,
 heb het ook nog geprobeerd met grid, maar uiteindelijk gebleven bij flexbox.
