@@ -32,6 +32,18 @@ Ik heb de rode tafel een tafelrand en inset shadows gegeven, zodat het een reali
 <img width="1398" alt="Screenshot 2023-04-19 at 09 55 06" src="https://user-images.githubusercontent.com/83574654/233008674-03d95076-bd48-4e37-bbcb-762323d1e097.png">
 <img width="417" alt="Screenshot 2023-04-19 at 09 56 56" src="https://user-images.githubusercontent.com/83574654/233008685-486bc654-becd-450e-be76-1028c525fe9f.png">
 
+Nu de tafel 'klaar' is (voor nu) ben ik begonnen aan het maken van de Joker achtergrond. Hiervoor heb ik eerst wat inspiratie opgedaan:
+
+<img width="674" alt="Screenshot 2023-04-19 at 10 24 46" src="https://user-images.githubusercontent.com/83574654/233048322-a2e22a31-c99b-40b9-ab3d-b0a6146de139.png">
+<img width="328" alt="Screenshot 2023-04-19 at 10 25 03" src="https://user-images.githubusercontent.com/83574654/233048345-6b92cd5c-5204-4329-b640-cf9d3385f9bb.png">
+<img width="328" alt="Screenshot 2023-04-19 at 10 25 50" src="https://user-images.githubusercontent.com/83574654/233048349-8dbc7ee3-1d5e-4b39-9dd5-6f1c693497a0.png">
+<img width="406" alt="Screenshot 2023-04-19 at 10 27 07" src="https://user-images.githubusercontent.com/83574654/233048353-4cb84fe5-ad1c-44ae-bc2c-b1c702b72561.png">
+<img width="406" alt="Screenshot 2023-04-19 at 10 28 09" src="https://user-images.githubusercontent.com/83574654/233048357-07b9f6cf-cce7-478c-b839-289ab2c9211a.png">
+
+Uiteindelijk heb ik een nieuwe, eigen variatie gemaakt wat ik wil gebruiken op mijn pagina.(kan hier eventueel eerst nog feedback op vragen)
+
+<img width="756" alt="Screenshot 2023-04-19 at 12 35 12" src="https://user-images.githubusercontent.com/83574654/233049146-77589324-a7ba-4598-abd7-7c6cc9628f12.png">
+
 
 **Bronvermelding:**
 
@@ -41,3 +53,7 @@ Ik heb de rode tafel een tafelrand en inset shadows gegeven, zodat het een reali
 - www.css-tricks.com
 
 - www.w3schools.com
+
+- https://geekculture.co/the-evolution-of-the-joker-infographic/
+
+- https://mindpotentialpower.com/the-joker-personality-type/
