@@ -24,7 +24,7 @@ button:not([disabled]) {
 /*********************/
 
 :root {
-  --color-kaarttafel:rgb(164, 7, 39);
+  --color-kaarttafel:rgb(25, 95, 42);
   --color-cards:rgb(235, 223, 196);
   --color-tafelrand:rgb(238, 191, 120);
 }
