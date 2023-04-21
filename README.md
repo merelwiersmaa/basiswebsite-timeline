@@ -26,6 +26,8 @@ Obstakel:
 <img width="574" alt="Screenshot 2023-04-18 at 12 26 28" src="https://user-images.githubusercontent.com/83574654/232749885-96bf0e37-f1cc-403e-a727-1838e2dfda8c.png">
 <img width="406" alt="Screenshot 2023-04-18 at 12 26 38" src="https://user-images.githubusercontent.com/83574654/232749895-033f4426-811a-49aa-bd7b-889c86f971ab.png">
 
+Edit: dit is me gelukt door hiervan Buttons te maken en deze te stylen met flexbox.
+
 **Dag 3: Werkzaamheden**
 
 Ik heb de rode tafel een tafelrand en inset shadows gegeven, zodat het een realistischere tafel wordt.
@@ -56,7 +58,9 @@ Ook de background-image werkt niet. heb het ook op de section geprobeerd...
 ook het font wil niet werken op mijn H1:
 <img width="502" alt="Screenshot 2023-04-21 at 10 42 55" src="https://user-images.githubusercontent.com/83574654/233589767-99bdf34f-0543-46af-931f-2865422b0390.png">
 
+Wat me vandaag WEL gelukt is, zijn de kleine Jokertjes:
 
+<img width="1397" alt="Screenshot 2023-04-21 at 11 24 30" src="https://user-images.githubusercontent.com/83574654/233599848-fb2c77c3-01d6-48c9-8f8a-0958ecd53183.png">
 
 **Bronvermelding:**
 
