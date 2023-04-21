@@ -1,7 +1,10 @@
 /*************/
 /* CSS RESET */
 /*************/
-
+@font-face {
+  font-family:'whySoSerious';
+  src: url(/fonts/deathrattle-bb/deathrattlebb_reg.ttf);
+}
 /* naar een idee van Jen Simmons */
 *, *::after, *::before {
   box-sizing:border-box;  
@@ -9,11 +12,11 @@
 
 body {
   margin:0;
+  background-image: url(./images/achtergrond.png);
+  background-size: cover;
 }
 
-button:not([disabled]) {
-  cursor:pointer;
-}
+
 
 
 
@@ -24,6 +27,7 @@ button:not([disabled]) {
 /*********************/
 
 :root {
+  --color-titelsKopjes: rgb(200, 0, 0);
   --color-kaarttafel:rgb(25, 95, 42);
   --color-cards:rgb(235, 223, 196);
   --color-tafelrand:rgb(238, 191, 120);
@@ -37,13 +41,25 @@ button:not([disabled]) {
 /* ALGEMENE STYLING */
 /********************/
 
+
 h1 {
-  color:var(--color-cards);
+  font-family: 'whySoSerious';
+  color:var(--color-titelsKopjes);
 }
 
-section {
+/* section:first-of-type {
+  
+  /* background-color: #cccccc; */
+  /* height: 500px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative; */
+
+
+section:nth-of-type(2) {
   background-color: var(--color-kaarttafel);
-  padding: 10em 10em 10em 10em;
+  padding: 5em;
   border-radius: 40em/5em;/* https://css-tricks.com/almanac/properties/b/border-radius/ */
   /* border-radius: 30em 30em 0em 0em; */
   border-style: ridge;
@@ -54,33 +70,38 @@ section {
 
 ul {
   display: flex;
+  justify-content: space-between;
   gap: 5em;
   flex-wrap: wrap;
+
   /* flex-flow: row wrap; */
 }
 
 li {
   list-style: none;
+}
+
+button{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
   background-color: var(--color-cards);
-  height: 13em;
-  width: 9em;
+  height: 15em;
+  width: 10em;
   /* flex-basis: 20%; */
   border-radius: .5em;
   box-shadow: inset 3px 3px 3px white, 0px 5px 10px black;
-  padding: 5.5em 2.5em;
-  /* de li tekst/plaatje wil ik in het midden van de kaart krijgen,
-  en ik weet dat dat niet mag met padding dus ik ga even kijken
-  hoe dat anders kan*/
 }
 
-li:hover {
-  cursor:pointer;
+button:hover {
+  cursor: url(/images/icons8-joker-dc-color-96.png);
+  /* de image wil niet gepakt worden als cursor... */
   transform: rotatey(360deg);
   transition-duration: 2s;
 }
-/* GELUKT: de positionering van de kaarten lukte me niet helemaal,
-heb het ook nog geprobeerd met grid, maar uiteindelijk gebleven bij flexbox.
-de doorslaggevende stappen waren de flex-wrap, gap en padding */
+
+
 
 
 
