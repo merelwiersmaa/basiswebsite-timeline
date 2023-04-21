@@ -53,6 +53,10 @@ OBSTAKELS:
 Ook de background-image werkt niet. heb het ook op de section geprobeerd...
 <img width="552" alt="Screenshot 2023-04-21 at 10 00 07" src="https://user-images.githubusercontent.com/83574654/233578538-98820652-1cf5-42d7-9248-79eabe504d34.png">
 
+ook het font wil niet werken op mijn H1:
+<img width="502" alt="Screenshot 2023-04-21 at 10 42 55" src="https://user-images.githubusercontent.com/83574654/233589767-99bdf34f-0543-46af-931f-2865422b0390.png">
+
+
 
 **Bronvermelding:**
 
