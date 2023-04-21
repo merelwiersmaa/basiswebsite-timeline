@@ -47,7 +47,11 @@ Uiteindelijk heb ik een nieuwe, eigen variatie gemaakt wat ik wil gebruiken op m
 **Dag 4: Werkzaamheden**
 
 OBSTAKELS:
+
 <img width="552" alt="Screenshot 2023-04-21 at 09 49 39" src="https://user-images.githubusercontent.com/83574654/233576445-a991eb90-b191-4bae-8be3-c3c61456997c.png">
+
+Ook de background-image werkt niet. heb het ook op de section geprobeerd...
+<img width="552" alt="Screenshot 2023-04-21 at 10 00 07" src="https://user-images.githubusercontent.com/83574654/233578538-98820652-1cf5-42d7-9248-79eabe504d34.png">
 
 
 **Bronvermelding:**
