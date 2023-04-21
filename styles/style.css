@@ -2,19 +2,19 @@
 /* CSS RESET */
 /*************/
 @font-face {
-  font-family:'whySoSerious';
-  src: url(/fonts/deathrattle-bb/deathrattlebb_reg.ttf);
+  font-family: 'whySoSerious';
+  src: url('../fonts/bearpaw_-webfont.woff2') format('woff2'),
+       url('../fonts/bearpaw_-webfont.woff') format('woff');
+  /* font-weight: normal;
+  font-style: normal;
+  font-display: fallback; */
 }
 /* naar een idee van Jen Simmons */
 *, *::after, *::before {
   box-sizing:border-box;  
 }
 
-body {
-  margin:0;
-  background-image: url(./images/achtergrond.png);
-  background-size: cover;
-}
+
 
 
 
@@ -41,24 +41,34 @@ body {
 /* ALGEMENE STYLING */
 /********************/
 
-
-h1 {
-  font-family: 'whySoSerious';
-  color:var(--color-titelsKopjes);
+body {
+  min-height:100vh;
+  background-image: url('../images/achtergrondLang.png');
+  background-repeat: none;
+  
 }
 
-/* section:first-of-type {
+header {
+  display: flex;
+  justify-content: center;
+}
+h1 {
   
-  /* background-color: #cccccc; */
-  /* height: 500px;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  position: relative; */
+  font-family: whySoSerious, fantasy;
+  font-size: 5em;
+  color:var(--color-titelsKopjes);
+
+}
+
+ /* section:first-of-type {
+  background-image: url('/images/achtergrondLang.png'); 
+ } */
 
 
 section:nth-of-type(2) {
   background-color: var(--color-kaarttafel);
+  margin-left: 3em;
+  margin-right: 3em;
   padding: 5em;
   border-radius: 40em/5em;/* https://css-tricks.com/almanac/properties/b/border-radius/ */
   /* border-radius: 30em 30em 0em 0em; */
@@ -92,10 +102,12 @@ button{
   /* flex-basis: 20%; */
   border-radius: .5em;
   box-shadow: inset 3px 3px 3px white, 0px 5px 10px black;
+  font-family: 'whySoSerious';
+
 }
 
-button:hover {
-  cursor: url(/images/icons8-joker-dc-color-96.png);
+li>button:hover {
+  cursor: url(/images/icons8-joker-dc-32.png), pointer;
   /* de image wil niet gepakt worden als cursor... */
   transform: rotatey(360deg);
   transition-duration: 2s;
