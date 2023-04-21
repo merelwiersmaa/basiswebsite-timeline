@@ -63,7 +63,8 @@ Wat me vandaag WEL gelukt is, zijn de kleine Jokertjes:
 
 <img width="1397" alt="Screenshot 2023-04-21 at 11 24 30" src="https://user-images.githubusercontent.com/83574654/233599848-fb2c77c3-01d6-48c9-8f8a-0958ecd53183.png">
 
-en wat me nu ook eindelijk gelukt is om een nieuw font te gebruiken op mijn pagina (met behulp van fontsquirrel:
+en wat me nu ook eindelijk gelukt is om een nieuw font te gebruiken op mijn pagina (met behulp van fontsquirrel):
+
 <img width="195" alt="Screenshot 2023-04-21 at 12 22 59" src="https://user-images.githubusercontent.com/83574654/233613128-59d51e63-556e-4b6c-b12d-6078a766e9af.png">
 <img width="542" alt="Screenshot 2023-04-21 at 12 23 14" src="https://user-images.githubusercontent.com/83574654/233613134-b1e1e2ec-52c5-4b94-9269-67b4d484ae39.png">
 
@@ -81,3 +82,5 @@ en wat me nu ook eindelijk gelukt is om een nieuw font te gebruiken op mijn pagi
 - https://geekculture.co/the-evolution-of-the-joker-infographic/
 
 - https://mindpotentialpower.com/the-joker-personality-type/
+
+- https://www.fontsquirrel.com/tools/webfont-generator
