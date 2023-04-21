@@ -44,6 +44,11 @@ Uiteindelijk heb ik een nieuwe, eigen variatie gemaakt wat ik wil gebruiken op m
 
 <img width="756" alt="Screenshot 2023-04-19 at 12 35 12" src="https://user-images.githubusercontent.com/83574654/233049146-77589324-a7ba-4598-abd7-7c6cc9628f12.png">
 
+**Dag 4: Werkzaamheden**
+
+OBSTAKELS:
+<img width="552" alt="Screenshot 2023-04-21 at 09 49 39" src="https://user-images.githubusercontent.com/83574654/233576445-a991eb90-b191-4bae-8be3-c3c61456997c.png">
+
 
 **Bronvermelding:**
 
