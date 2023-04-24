@@ -68,13 +68,13 @@ en wat me nu ook eindelijk gelukt is om een nieuw font te gebruiken op mijn pagi
 <img width="195" alt="Screenshot 2023-04-21 at 12 22 59" src="https://user-images.githubusercontent.com/83574654/233613128-59d51e63-556e-4b6c-b12d-6078a766e9af.png">
 <img width="542" alt="Screenshot 2023-04-21 at 12 23 14" src="https://user-images.githubusercontent.com/83574654/233613134-b1e1e2ec-52c5-4b94-9269-67b4d484ae39.png">
 
-Uiteindelijk met behulp van Sanne kwamen we erachter dat de achtergrond niet goed gepakt werd omdat hij niet op een lokaal bestand stond en hem dus niet kon vinden. Nu is er in ieder geval wat te zien als achtergrond, maar moet het nog aangepast worden.
+Uiteindelijk met behulp van Sanne kwamen we erachter dat de achtergrond niet goed gepakt werd omdat hij niet op een lokaal bestand stond en hem dus niet kon vinden. Nu is er in ieder geval wat te zien als achtergrond, maar moet het nog aangepast worden. (ook wordt de afbeelding van de cursor weergegeven, dat lukte eerst ook niet)
 
 <img width="1396" alt="Screenshot 2023-04-24 at 09 13 05" src="https://user-images.githubusercontent.com/83574654/233925143-92108dfd-7c8e-4dff-95ae-1ec19164749b.png">
 
 **Dag 5: Werkzaamheden**
 
-Ik ga beginnen met het aanpassen van de acchtergrond, zodat die mooi in het geheel past.
+Ik ga beginnen met het aanpassen van de achtergrond, zodat die mooi in het geheel past.
 
 **Bronvermelding:**
 
