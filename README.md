@@ -84,6 +84,14 @@ Dus nu heb ik de afbeelding wat breder, met dezelfde hoogte gemaakt in illustrat
 
 <img width="1387" alt="Screenshot 2023-04-24 at 11 02 44" src="https://user-images.githubusercontent.com/83574654/233950229-d074a4e7-1524-49b1-b6f8-22dfdfa77af8.png">
 
+Obstakel: 
+
+Ik wil graag dat de DIALOG een delay krijgt met openen na een click op de button. ik heb het al geprobeerd in css, met: dialog[open] {   
+  animation-delay:2s;
+}
+
+maar deze doet het niet. Ook heb ik meerdere varianten uit externe bronnen gebruikt in javascript geprobeerd, met de setTimeout functie, maar ook dat lukt mij niet. Wél 3 sec na openen van de pagina, maar niet na het klikken van de button.
+
 **Bronvermelding:**
 
 - ![icons8-joker-dc-32](https://user-images.githubusercontent.com/83574654/232747592-245cac76-1e8e-4645-94a9-9fa317e1b7c2.png)
@@ -100,3 +108,5 @@ Dus nu heb ik de afbeelding wat breder, met dezelfde hoogte gemaakt in illustrat
 - https://www.fontsquirrel.com/tools/webfont-generator
 
 - DIALOG CODE: Bron van Sanne: https://codepen.io/shooft/pen/wvYgVKg
+
+- animatie css: https://codepen.io/merelwiersmaa/pen/wvYWWMe
