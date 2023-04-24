@@ -72,9 +72,14 @@ Uiteindelijk met behulp van Sanne kwamen we erachter dat de achtergrond niet goe
 
 <img width="1396" alt="Screenshot 2023-04-24 at 09 13 05" src="https://user-images.githubusercontent.com/83574654/233925143-92108dfd-7c8e-4dff-95ae-1ec19164749b.png">
 
-**Dag 5: Werkzaamheden**
+**Dag 5: Werkzaamheden & feedback **
 
-Ik ga beginnen met het aanpassen van de achtergrond, zodat die mooi in het geheel past.
+Feedback:
+
+<img width="587" alt="Screenshot 2023-04-24 at 10 36 04" src="https://user-images.githubusercontent.com/83574654/233943470-45cbdde0-2d76-49d6-9112-873b8ba5f5a6.png"><img width="587" alt="Screenshot 2023-04-24 at 10 36 16" src="https://user-images.githubusercontent.com/83574654/233943530-9ef806a2-32e5-4503-807e-e554d63671fa.png">
+<img width="587" alt="Screenshot 2023-04-24 at 10 36 35" src="https://user-images.githubusercontent.com/83574654/233943588-36d5230d-8ae9-46de-be49-a591fad89d02.png">
+
+
 
 **Bronvermelding:**
 
