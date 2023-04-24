@@ -108,8 +108,16 @@ button{
   border-radius: .5em;
   box-shadow: inset 3px 3px 3px white, 0px 5px 10px black;
   font-family: 'whySoSerious';
-
 }
+
+
+
+
+/****************************/
+/* ANIMATIE JOKER KAARTEN */
+/****************************/
+
+
 
 li>button:hover {
   cursor: pointer;
@@ -119,6 +127,27 @@ li>button:hover {
 }
 
 
+/* the frog uit: https://codepen.io/merelwiersmaa/pen/wvYWWMe */
+/* @keyframes JokerKaart {
+  0% {
+  transform: translatey(0em);
+    animation-fill-mode:ease-out;
+  } 
+  50% {
+    transform: translatey(-6em);
+
+  }
+  100% {
+    transform: translatey(0em);
+    animation-fill-mode:ease-in;
+  }
+} */
+
+
+li>button:active  {
+  transform: translateY(-3em);
+}
+
 
 /***************/
 /* THE DIALOGS, Bron van Sanne: https://codepen.io/shooft/pen/wvYgVKg */
@@ -126,18 +155,25 @@ li>button:hover {
 
 /* the box */
 dialog {
-	width:80%;
-	max-width:40em;
-	padding:0;
+  background-color: var(--color-cards);
+  height: 45em;
+  width: 30em;
+  /* flex-basis: 20%; */
+  border-radius: .5em;
+  border-radius: .5em;
+  box-shadow: inset 3px 3px 3px white, 0px 5px 10px black;
 }
 
+dialog[open] {   
+  animation-delay:2s;
+}
 
 /* translucent layer covering the page */
 /* is part of the dialog element */
 dialog::backdrop {
 	/* style it anyway you want */
 	/* for example --> blur the info beneath the layer --> and make it a bit darker*/
-  backdrop-filter:blur(2em) brightness(.6);
+  backdrop-filter:blur(8em) brightness();
 }
 
 
@@ -152,7 +188,22 @@ dialog form p {
 }
 
 dialog button {
-	font-size:1em;
+	font-size:1.5em;
+}
+
+
+/* de close button nam automatisch de styling over van de originele buttons (kaarten)
+dus die moet ik hier 'resetten'. deze class geldt voor alle sluitknoppen van alle kaarten */
+.sluitKnop {
+  height: 1.5em;
+  width: 1.5em;
+  background-color: transparent;
+  border-style: none;
+  box-shadow: none;
+}
+
+.sluitKnop:hover {
+  cursor: pointer;
 }
 
 
