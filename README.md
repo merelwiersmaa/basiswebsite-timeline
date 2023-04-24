@@ -98,3 +98,5 @@ Dus nu heb ik de afbeelding wat breder, met dezelfde hoogte gemaakt in illustrat
 - https://mindpotentialpower.com/the-joker-personality-type/
 
 - https://www.fontsquirrel.com/tools/webfont-generator
+
+- DIALOG CODE: Bron van Sanne: https://codepen.io/shooft/pen/wvYgVKg
