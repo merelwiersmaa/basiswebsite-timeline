@@ -100,3 +100,5 @@ Dus nu heb ik de afbeelding wat breder, met dezelfde hoogte gemaakt in illustrat
 - https://www.fontsquirrel.com/tools/webfont-generator
 
 - DIALOG CODE: Bron van Sanne: https://codepen.io/shooft/pen/wvYgVKg
+
+- animatie css: https://codepen.io/merelwiersmaa/pen/wvYWWMe
