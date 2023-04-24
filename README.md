@@ -79,7 +79,10 @@ Feedback:
 <img width="587" alt="Screenshot 2023-04-24 at 10 36 04" src="https://user-images.githubusercontent.com/83574654/233943470-45cbdde0-2d76-49d6-9112-873b8ba5f5a6.png"><img width="587" alt="Screenshot 2023-04-24 at 10 36 16" src="https://user-images.githubusercontent.com/83574654/233943530-9ef806a2-32e5-4503-807e-e554d63671fa.png">
 <img width="587" alt="Screenshot 2023-04-24 at 10 36 35" src="https://user-images.githubusercontent.com/83574654/233943588-36d5230d-8ae9-46de-be49-a591fad89d02.png">
 
+In eerste instantie kon ik mijn achtergrond niet mooi centreren en was het te groot, maar als ik dit in code wilde aanpassen met de min-height:100vh naar bijvoorbeeld 80vh, ging het al helemaal uit proportie.
+Dus nu heb ik de afbeelding wat breder, met dezelfde hoogte gemaakt in illustrator, en deze vervangen met de huidige achtergrond. Nu staat het eindelijk goed. 
 
+<img width="1387" alt="Screenshot 2023-04-24 at 11 02 44" src="https://user-images.githubusercontent.com/83574654/233950229-d074a4e7-1524-49b1-b6f8-22dfdfa77af8.png">
 
 **Bronvermelding:**
 
