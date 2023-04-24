@@ -42,10 +42,11 @@
 /********************/
 
 body {
-  min-height:100vh;
+  /* min-height:100vh;
   background-image: url('../images/achtergrondLang.png');
-  background-repeat: none;
-  
+  background-repeat: none; */
+  background-color: rgb(27, 27, 27);
+  cursor: url(/images/icons8-joker-dc-32.png) 15 10, pointer;
 }
 
 header {
@@ -64,6 +65,12 @@ h1 {
   background-image: url('/images/achtergrondLang.png'); 
  } */
 
+section:first-of-type {
+  min-height:90vh; /* getypt door Sanne */
+  background-size: contain;
+  background-image: url('../images/achtergrond.jpg');
+  
+}
 
 section:nth-of-type(2) {
   background-color: var(--color-kaarttafel);
@@ -107,7 +114,7 @@ button{
 }
 
 li>button:hover {
-  cursor: url(/images/icons8-joker-dc-32.png), pointer;
+  cursor: pointer;
   /* de image wil niet gepakt worden als cursor... */
   transform: rotatey(360deg);
   transition-duration: 2s;
