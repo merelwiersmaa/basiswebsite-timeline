@@ -57,8 +57,8 @@ body {
 header {
   display: flex;
   justify-content: center;
-  background-image: url('../images/achtergrond.jpg');
-  min-height:100vh; /* getypt door Sanne */
+  background-image: url('../images/achtergrondV2.jpg');
+  min-height:73vh; /* getypt door Sanne, was eerst 100vh */
   background-size: contain;
   background-repeat: none;
 }
