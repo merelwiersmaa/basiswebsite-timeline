@@ -92,6 +92,8 @@ Ik wil graag dat de DIALOG een delay krijgt met openen na een click op de button
 
 maar deze doet het niet. Ook heb ik meerdere varianten uit externe bronnen gebruikt in javascript geprobeerd, met de setTimeout functie, maar ook dat lukt mij niet. Wél 3 sec na openen van de pagina, maar niet na het klikken van de button.
 
+Ook doet de backdrop-filter van de dialog het niet.
+
 **Bronvermelding:**
 
 - ![icons8-joker-dc-32](https://user-images.githubusercontent.com/83574654/232747592-245cac76-1e8e-4645-94a9-9fa317e1b7c2.png)
