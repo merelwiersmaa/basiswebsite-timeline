@@ -120,5 +120,42 @@ li>button:hover {
 
 
 
+/***************/
+/* THE DIALOGS, Bron van Sanne: https://codepen.io/shooft/pen/wvYgVKg */
+/***************/
+
+/* the box */
+dialog {
+	width:80%;
+	max-width:40em;
+	padding:0;
+}
+
+
+/* translucent layer covering the page */
+/* is part of the dialog element */
+dialog::backdrop {
+	/* style it anyway you want */
+	/* for example --> blur the info beneath the layer --> and make it a bit darker*/
+  backdrop-filter:blur(2em) brightness(.6);
+}
+
+
+/* dialog content */
+dialog form {	
+	padding:1em;
+}
+
+dialog form h2,
+dialog form p {
+	
+}
+
+dialog button {
+	font-size:1em;
+}
+
+
+
 
 
