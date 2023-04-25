@@ -103,6 +103,9 @@ Update: ook dit is met behulp van Sanne gelukt. blijkbaar was er iets waardoor s
 
 **Dag 6: Werkzaamheden**
 
+Ik heb bij alle Joker kaarten de dialog erin gezet en heb goed gelet op de benamingen van de functies en dergelijke, om niet in de war te raken. Nu ze het allemaal doen wordt het tijd om ze een voor een te stijlen. 
+
+<img width="793" alt="Screenshot 2023-04-25 at 09 53 15" src="https://user-images.githubusercontent.com/83574654/234211094-a2f38200-296f-4460-8cd6-56c7dab3a01d.png">
 
 
 **Bronvermelding:**
