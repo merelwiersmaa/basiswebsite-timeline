@@ -69,7 +69,6 @@ h1 {
   font-family: whySoSerious, fantasy;
   font-size: 5em;
   color:var(--color-titelsKopjes);
-  -webkit-text-stroke: 1px rgb(111, 14, 14);
   text-shadow: 0em 0em 1.5em black;
 }
 
@@ -84,7 +83,7 @@ h1 {
 }
 
 h1:hover {
-  animation-name:konijn;
+  animation-name: serious;
   animation-duration:.6s;
   animation-iteration-count: infinite;
 }
