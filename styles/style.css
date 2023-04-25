@@ -2,14 +2,18 @@
 /* CSS RESET */
 /*************/
 
+
 /* naar een idee van Jen Simmons */
 *, *::after, *::before {
   box-sizing:border-box;  
 }
 
+
 /**************/
-/* FONTS */
-/* ********** */
+/**** FONTS ***/
+/**************/
+
+
 @font-face {
   font-family: 'whySoSerious';
   src: url('../fonts/bearpaw_-webfont.woff2') format('woff2'),
@@ -20,17 +24,10 @@
 }
 
 
-
-
-
-
-
-
-
-
 /*********************/
 /* CUSTOM PROPERTIES */
 /*********************/
+
 
 :root {
   --color-titelsKopjes: rgb(200, 0, 0);
@@ -41,42 +38,47 @@
   /* om de afbeelding en body achtergrond te matchen werkt niet met dezelfde
   rgb code, dus moet ik de body rgb code iets verhogen, om het dezelfde kleur te geven. */
   --color-achtergrondBody: rgb(34, 34, 34);
-  
 }
-
-
-
 
 
 /********************/
 /* ALGEMENE STYLING */
 /********************/
 
+
 body {
-  /* min-height:100vh;
-  background-image: url('../images/achtergrondLang.png');
-  background-repeat: none; */
   background-color: var(--color-achtergrondBody);
-  cursor: url(/images/icons8-joker-dc-32.png) 15 10, pointer;
+  cursor: url(../images/icons8-joker-dc-32.png) 15 10, pointer; /* 15 10 Zorgt ervoor dat het klikpunt IN de Joker zit, niet aan het randje */
 }
 
 header {
   display: flex;
   align-items: center;
+  
+  /* Hieronder getypt door Sanne */
+  height: 37vh; 
   background-image: url('../images/achtergrondV2.jpg');
-  height: 37vh; /* getypt door Sanne, was eerst 100vh */
   background-size: auto 47vh;
   background-position: center -10vh;
   background-repeat: no-repeat;
 }
+
 h1 {
   rotate: -15deg;
   padding-left: .5em;
-  font-family: whySoSerious, fantasy;
+
+  font-family: whySoSerious, fantasy; /* Mocht het whySoSerious font niet kunnen op de browser, dan pakt hij de fantasy */
   font-size: 5em;
+
   color:var(--color-titelsKopjes);
   text-shadow: 0em 0em 1.5em black;
 }
+
+
+/*****************/
+/* ANIMATIE H1 */
+/****************/
+
 
 @keyframes serious {
   0% {
@@ -84,7 +86,7 @@ h1 {
   }
 
   100% {
-    transform: rotate(360deg);
+    transform: rotate(360deg); /* Deze keyframes vormen de animatie voor de H1: hover (een rondje draaien) */
   }
 }
 
@@ -94,16 +96,23 @@ h1:hover {
   animation-iteration-count: infinite;
 }
 
+
+/*************************/
+/* SECTIE 1: JOKERKAARTEN */
+/*************************/
+
+
 section:first-of-type {
   background-color: var(--color-kaarttafel);
+
   margin-left: 3em;
   margin-right: 3em;
-  /* padding: 5em; */
-  border-radius: 40em/5em;/* https://css-tricks.com/almanac/properties/b/border-radius/ */
-  /* border-radius: 30em 30em 0em 0em; */
+
+  border-radius: 40em/5em;/* Van: https://css-tricks.com/almanac/properties/b/border-radius/ */
   border-style: ridge;
-  border-width: 20px;
+  border-width: 1.5em;
   border-color: var(--color-tafelrand);
+
   box-shadow: inset 0px 5px 20px 5px black;
 }
 
@@ -115,29 +124,29 @@ ul {
 
   margin:0;
   padding:5em;
-
-  /* flex-flow: row wrap; */
 }
 
 li {
   list-style: none;
 }
 
-button{
-  display: flex;
+button {
+  display: flex; /* Zorgt dat alles mooi in het midden komt te staan */
   flex-direction: column;
   justify-content: center;
   align-items: center;
+
   background-color: var(--color-cards);
+
   height: 15em;
   width: 10em;
-  /* flex-basis: 20%; */
+  
   border-radius: .5em;
-  box-shadow: inset 3px 3px 3px white, 0px 5px 10px black;
+
+  box-shadow: inset 3px 3px 3px white, 0px 5px 10px black; /* Een binnenshaduw en buitenshaduw */
+
   font-family: 'whySoSerious';
 }
-
-
 
 
 /****************************/
@@ -145,65 +154,70 @@ button{
 /****************************/
 
 
-
-li>button:hover {
+li>button:hover { /* Tijdens de hover */
   cursor: pointer;
   transform: translateY(-3em);
   transition-duration: .3s;
 }
 
 
-
-li>button:active  {
+li>button:active  { /* Tijdens de muisklik */
   transform: rotatey(180deg);
   transition-duration: .4s;
 }
 
 
-/***************/
+/**********************************************************************/
 /* THE DIALOGS, Bron van Sanne: https://codepen.io/shooft/pen/wvYgVKg
 Ook het aanpassen van de dialog heeft Sanne geholpen */
-/***************/
+/************************************************************************/
 
-/* the box */
+
+/*************/
+/* DE DIALOG */
+/*************/
+
+
 dialog {
-  position: fixed;
-  inset:0;
   display:block;
-  opacity:0;
+  position: fixed;
+  inset:0; /* Weet niet wat inset betekent */
+  
+  opacity:0; /* De dialog is wel in beeld, maar dan onzichtbaar en niet klikbaar */
   pointer-events: none;
 
   background-color: var(--color-cards);
   height: 45em;
   width: 30em;
-  /* flex-basis: 20%; */
+  
   border-radius: .5em;
-  box-shadow: inset 3px 3px 3px white, 0px 5px 10px black;
+  box-shadow: inset 3px 3px 3px white, 0px 5px 10px black; /* Dezelfde stijling als de kleine joker kaartjes */
 
   transition: 1s;
 }
 
-dialog[open] {
+dialog[open] { /* De voorheen onzichtbare en niet klikbare dialog, komt nu wel tevoorschijn. */
   opacity:1;
   pointer-events: all;
 }
 
 
-/* translucent layer covering the page */
-/* is part of the dialog element */
-/* dialog::backdrop { */
-	/* style it anyway you want */
-	/* for example --> blur the info beneath the layer --> and make it a bit darker*/
-  /* backdrop-filter:blur(16px); */
-/* } */
+/**********************/
+/* DIALOG ACHTERGROND */
+/**********************/
 
-dialog::backdrop {
-  -webkit-backdrop-filter: blur(25px);
+
+dialog::backdrop { /* Geblurrde achtergrond bij openen van dialog */
+  -webkit-backdrop-filter: blur(25px); /* Voor de eigenwijze safari die niet luisterd */
   backdrop-filter: blur(25px);
 }
 
 
-/* dialog content */
+/******************/
+/* DIALOG CONTENT */
+/******************/
+
+
 dialog form {	
 	padding:1em;
 }
@@ -218,12 +232,19 @@ dialog button {
 }
 
 
+/*************/
+/*SLUITKNOP*/
+/*************/
+
+
 /* de close button nam automatisch de styling over van de originele buttons (kaarten)
 dus die moet ik hier 'resetten'. deze class geldt voor alle sluitknoppen van alle kaarten */
 .sluitKnop {
   height: 1.5em;
   width: 1.5em;
+
   background-color: transparent;
+
   border-style: none;
   box-shadow: none;
 }

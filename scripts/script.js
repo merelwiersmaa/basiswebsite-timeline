@@ -1,6 +1,7 @@
 // JavaScript Document
 console.log("heeey!");
 
+
 //////////////////////////////
 /////// SOUNDS ///////////////
 /////////////////////////////
@@ -30,11 +31,29 @@ var lachGotham2017 = new Audio("./sound/lachGotham2017.wav");
 //https://www.youtube.com/watch?v=FqC0Yf8OjAI
 var lachJokerFilm2019 = new Audio("./sound/lachJokerFilm2019.wav");
 
+//https://www.youtube.com/watch?v=PoyejjJGajk
+var whySoSerious = new Audio("./sound/whySoSerious.wav")
+
+
+///////////////////
+//HOVER H1/////////
+///////////////////
+
+
+const heading = document.querySelector("h1");
+
+heading.addEventListener("mouseover", audioWhySoSerious);
+
+function audioWhySoSerious() {
+
+    whySoSerious.play();
+}
 
 
 ////////////////////////////////////////////////////////////////////////////////
 // DIALOG GOLDEN AGE 1940, Bron van Sanne: https://codepen.io/shooft/pen/wvYgVKg///
 ////////////////////////////////////////////////////////////////////////////////
+
 
 // Hieronder worden de elementen aangewezen uit de HTML (via de querySelector), die worden gebruikt in de interactie. 
 // Deze elementen worden naar JS 'gehaald' en krijgen een eigen naam.
@@ -63,6 +82,7 @@ function openGoldenAge() {
 // DIALOG TV SHOW 1966 ///
 /////////////////////////
 
+
 const TVSHOWOpenButton = document.querySelector("ul li:nth-of-type(2) > button");
 const TVSHOWDialog = document.querySelector("ul li:nth-of-type(2) dialog");
 
@@ -80,6 +100,7 @@ function openTVshow() {
 /////////////////////////////
 // DIALOG TIM BURTON 1989 ///
 ////////////////////////////
+
 
 const TimBurtonOpenButton = document.querySelector("ul li:nth-of-type(3) > button");
 const TimBurtonDialog = document.querySelector("ul li:nth-of-type(3) dialog");
@@ -99,6 +120,7 @@ function openTimBurton() {
 // DIALOG ANIMATED SERIES 1992 ///
 //////////////////////////////////
 
+
 const AnimatedSeriesOpenButton = document.querySelector("ul li:nth-of-type(4) > button");
 const AnimatedSeriesDialog = document.querySelector("ul li:nth-of-type(4) dialog");
 
@@ -117,6 +139,7 @@ function openAnimatedSeries() {
 // DIALOG ALEX ROSS 1999 ///
 ////////////////////////////
 
+
 const AlexRossOpenButton = document.querySelector("ul li:nth-of-type(5) > button");
 const AlexRossDialog = document.querySelector("ul li:nth-of-type(5) dialog");
 
@@ -132,6 +155,7 @@ function openAlexRoss() {
 /////////////////////////////
 // DIALOG DARK KNIGHT 2008 //
 ////////////////////////////
+
 
 const DarkKnightOpenButton = document.querySelector("ul li:nth-of-type(6) > button");
 const DarkKnightDialog = document.querySelector("ul li:nth-of-type(6) dialog");
@@ -151,6 +175,7 @@ function openDarkKnight() {
 // DIALOG SUICIDE SQUAD 2016 //
 ///////////////////////////////
 
+
 const SuicideSquadOpenButton = document.querySelector("ul li:nth-of-type(7) > button");
 const SuicideSquadDialog = document.querySelector("ul li:nth-of-type(7) dialog");
 
@@ -168,6 +193,7 @@ function openSuicideSquad() {
 ///////////////////////////////
 // DIALOG LEGO BATMAN 2017 ////
 ///////////////////////////////
+
 
 const LegoBatmanOpenButton = document.querySelector("ul li:nth-of-type(8) > button");
 const LegoBatmanDialog = document.querySelector("ul li:nth-of-type(8) dialog");
@@ -187,6 +213,7 @@ function openLegoBatman() {
 // DIALOG GOTHAM JEROME 2017 ///////
 ////////////////////////////////////
 
+
 const GothamJeromeOpenButton = document.querySelector("ul li:nth-of-type(9) > button");
 const GothamJeromeDialog = document.querySelector("ul li:nth-of-type(9) dialog");
 
@@ -204,6 +231,7 @@ function openGothamJerome() {
 ///////////////////////////////////
 // DIALOG JOKER FILM 2019//////////
 ///////////////////////////////////
+
 
 const JokerFilmOpenButton = document.querySelector("ul li:nth-of-type(10) > button");
 const JokerFilmDialog = document.querySelector("ul li:nth-of-type(10) dialog");
