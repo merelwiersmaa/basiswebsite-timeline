@@ -72,7 +72,7 @@ Uiteindelijk met behulp van Sanne kwamen we erachter dat de achtergrond niet goe
 
 <img width="1396" alt="Screenshot 2023-04-24 at 09 13 05" src="https://user-images.githubusercontent.com/83574654/233925143-92108dfd-7c8e-4dff-95ae-1ec19164749b.png">
 
-**Dag 5: Werkzaamheden & feedback **
+**Dag 5: Werkzaamheden & feedback** 
 
 Feedback:
 
