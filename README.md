@@ -103,9 +103,19 @@ Update: ook dit is met behulp van Sanne gelukt. blijkbaar was er iets waardoor s
 
 **Dag 6: Werkzaamheden**
 
-Ik heb bij alle Joker kaarten de dialog erin gezet en heb goed gelet op de benamingen van de functies en dergelijke, om niet in de war te raken. Nu ze het allemaal doen wordt het tijd om ze een voor een te stijlen. 
+Ik heb bij alle Joker kaarten de dialog erin gezet en heb goed gelet op de benamingen van de functies en dergelijke, om niet in de war te raken. Nu ze het allemaal doen wordt het tijd om ze een voor een te stijlen, daar ga ik later aan beginnen. 
 
 <img width="793" alt="Screenshot 2023-04-25 at 09 53 15" src="https://user-images.githubusercontent.com/83574654/234211094-a2f38200-296f-4460-8cd6-56c7dab3a01d.png">
+
+Als leuke interactie met de Jokers heb ik geluiden toegevoegd aan de kaarten. Bij het openen van de dialog van elke kaart zul je de aannstekelijke lach horen van die bijbehorende Joker.
+
+<img width="793" alt="Screenshot 2023-04-25 at 12 24 47" src="https://user-images.githubusercontent.com/83574654/234249208-3dcf8a71-a032-435c-980f-c67e337b2722.png">
+
+<img width="314" alt="Screenshot 2023-04-25 at 12 25 36" src="https://user-images.githubusercontent.com/83574654/234249399-6a1f1184-2c3b-4355-b8d0-17c35b194c9c.png">
+
+Ook de H1: Why so serious?! heeft een leuk hover effects gekregen met geluid van de letterlijke 'why so serious' uitspraak van de Joker (Heath Ledger).
+
+Daarnaast heb ik al mijn code opgeschoond, geordend en comments toegevoegd, zodat het er niet meer zo rommelig uitziet en het goed te begrijpen is.
 
 
 **Bronvermelding:**
@@ -128,3 +138,5 @@ Ik heb bij alle Joker kaarten de dialog erin gezet en heb goed gelet op de benam
 - animatie css: https://codepen.io/merelwiersmaa/pen/wvYWWMe
 
 - https://web.dev/building-a-dialog-component/
+
+- www.youtube.com voor sounds, specifiek staat in de code.
