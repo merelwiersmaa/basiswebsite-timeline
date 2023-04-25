@@ -56,25 +56,44 @@ body {
 
 header {
   display: flex;
-  justify-content: center;
+  align-items: center;
   background-image: url('../images/achtergrondV2.jpg');
-  min-height:73vh; /* getypt door Sanne, was eerst 100vh */
-  background-size: contain;
-  background-repeat: none;
+  height: 37vh; /* getypt door Sanne, was eerst 100vh */
+  background-size: auto 47vh;
+  background-position: center -10vh;
+  background-repeat: no-repeat;
 }
 h1 {
-  
+  rotate: -15deg;
+  padding-left: .5em;
   font-family: whySoSerious, fantasy;
   font-size: 5em;
   color:var(--color-titelsKopjes);
+  -webkit-text-stroke: 1px rgb(111, 14, 14);
+  text-shadow: 0em 0em 1.5em black;
+}
 
+@keyframes serious {
+  0% {
+    transform: rotate(0deg);
+  }
+
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+h1:hover {
+  animation-name:konijn;
+  animation-duration:.6s;
+  animation-iteration-count: infinite;
 }
 
 section:first-of-type {
   background-color: var(--color-kaarttafel);
   margin-left: 3em;
   margin-right: 3em;
-  padding: 5em;
+  /* padding: 5em; */
   border-radius: 40em/5em;/* https://css-tricks.com/almanac/properties/b/border-radius/ */
   /* border-radius: 30em 30em 0em 0em; */
   border-style: ridge;
@@ -85,9 +104,12 @@ section:first-of-type {
 
 ul {
   display: flex;
-  justify-content: space-between;
-  gap: 5em;
+  justify-content: center;
+  gap: 7vw;
   flex-wrap: wrap;
+
+  margin:0;
+  padding:5em;
 
   /* flex-flow: row wrap; */
 }
@@ -121,59 +143,58 @@ button{
 
 li>button:hover {
   cursor: pointer;
-  /* de image wil niet gepakt worden als cursor... */
-  transform: rotatey(360deg);
-  transition-duration: 2s;
+  transform: translateY(-3em);
+  transition-duration: .3s;
 }
 
 
-/* the frog uit: https://codepen.io/merelwiersmaa/pen/wvYWWMe */
-/* @keyframes JokerKaart {
-  0% {
-  transform: translatey(0em);
-    animation-fill-mode:ease-out;
-  } 
-  50% {
-    transform: translatey(-6em);
-
-  }
-  100% {
-    transform: translatey(0em);
-    animation-fill-mode:ease-in;
-  }
-} */
-
 
 li>button:active  {
-  transform: translateY(-3em);
+  transform: rotatey(180deg);
+  transition-duration: .4s;
 }
 
 
 /***************/
-/* THE DIALOGS, Bron van Sanne: https://codepen.io/shooft/pen/wvYgVKg */
+/* THE DIALOGS, Bron van Sanne: https://codepen.io/shooft/pen/wvYgVKg
+Ook het aanpassen van de dialog heeft Sanne geholpen */
 /***************/
 
 /* the box */
 dialog {
+  position: fixed;
+  inset:0;
+  display:block;
+  opacity:0;
+  pointer-events: none;
+
   background-color: var(--color-cards);
   height: 45em;
   width: 30em;
   /* flex-basis: 20%; */
   border-radius: .5em;
-  border-radius: .5em;
   box-shadow: inset 3px 3px 3px white, 0px 5px 10px black;
+
+  transition: 1s;
 }
 
-dialog[open] {   
-  animation-delay:2s;
+dialog[open] {
+  opacity:1;
+  pointer-events: all;
 }
+
 
 /* translucent layer covering the page */
 /* is part of the dialog element */
-dialog::backdrop {
+/* dialog::backdrop { */
 	/* style it anyway you want */
 	/* for example --> blur the info beneath the layer --> and make it a bit darker*/
-  backdrop-filter:blur(8em) brightness();
+  /* backdrop-filter:blur(16px); */
+/* } */
+
+dialog::backdrop {
+  -webkit-backdrop-filter: blur(25px);
+  backdrop-filter: blur(25px);
 }
 
 
