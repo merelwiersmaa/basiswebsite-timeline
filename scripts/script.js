@@ -5,16 +5,27 @@ console.log("heeey!");
 // DIALOG GOLDEN AGE 1940, Bron van Sanne: https://codepen.io/shooft/pen/wvYgVKg///
 ////////////////////////////////////////////////////////////////////////////////
 
+// Hieronder worden de elementen aangewezen uit de HTML (via de querySelector), die worden gebruikt in de interactie. 
+// Deze elementen worden naar JS 'gehaald' en krijgen een eigen naam.
 const GoldenAgeOpenButton = document.querySelector("ul li:nth-of-type(1) > button");
 const GoldenAgeDialog = document.querySelector("ul li:nth-of-type(1) dialog");
 
+
+//Hieronder wordt verteld aan de GoldenAgeOpenButton (dus de button in HTML), dat hij moet luisteren naar een event (addEventListener).
+//Dit event houdt in dat er bij een 'click' op de knop (de actie), er een reactie uitgevoerd moet worden, en dat is de functie openGoldenAge.
 GoldenAgeOpenButton.addEventListener("click", openGoldenAge);
 
+
+//De functie (reactie) die uitgevoerd moet worden staat hieronder beschreven.
+//setTimeout zorgt ervoor dat er een korte vertraging plaatsvindt na de click, voordat de fucntie wordt uitgevoerd
 function openGoldenAge() {
     setTimeout(() => {
         GoldenAgeDialog.showModal();
-    }, 500);
+    }, 500); // 500 ms = 0.5 sec
 }
+
+//De volgende code's zijn precies hetzelfde, maar dan met andere benamingen voor hun eigen Jokerkaart.
+//Maar het spreekt voorzich, de werking ervan komt op hetzelfde neer.
 
 
 //////////////////////////
