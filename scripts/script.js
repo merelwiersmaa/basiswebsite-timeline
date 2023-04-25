@@ -1,6 +1,37 @@
 // JavaScript Document
 console.log("heeey!");
 
+//////////////////////////////
+/////// SOUNDS ///////////////
+/////////////////////////////
+
+
+//https://www.youtube.com/watch?v=7nihwFDL1Co
+var lachTVshow1966 = new Audio("./sound/lachTVshow1966.wav");
+
+//https://www.youtube.com/watch?v=yPBPcACUTng
+var lachTimBurton1989 = new Audio("./sound/lachTimBurton1989.wav");
+
+//https://www.youtube.com/watch?v=wcinzmfZeCc
+var lachAnimatedSeries1992 = new Audio("./sound/lachAnimatedSeries1992.wav");
+
+//https://www.youtube.com/watch?v=-n8troSSIhU
+var lachDarkKnight2008 = new Audio("./sound/lachDarkKnight2008.wav");
+
+//https://www.youtube.com/watch?v=A664eSs0VEU
+var lachSuicideSquad2016 = new Audio("./sound/lachSuicideSquad2016.wav");
+
+//https://www.youtube.com/watch?v=RWbHUmaKsJM
+var lachLego2017 = new Audio("./sound/lachLego2017.wav");
+
+//https://www.youtube.com/watch?v=culVml1wk30
+var lachGotham2017 = new Audio("./sound/lachGotham2017.wav");
+
+//https://www.youtube.com/watch?v=FqC0Yf8OjAI
+var lachJokerFilm2019 = new Audio("./sound/lachJokerFilm2019.wav");
+
+
+
 ////////////////////////////////////////////////////////////////////////////////
 // DIALOG GOLDEN AGE 1940, Bron van Sanne: https://codepen.io/shooft/pen/wvYgVKg///
 ////////////////////////////////////////////////////////////////////////////////
@@ -41,6 +72,8 @@ function openTVshow() {
     setTimeout(() => {
         TVSHOWDialog.showModal();
     }, 500);
+
+    lachTVshow1966.play();
 }
 
 
@@ -57,6 +90,8 @@ function openTimBurton() {
     setTimeout(() => {
         TimBurtonDialog.showModal();
     }, 500);
+
+    lachTimBurton1989.play();
 }
 
 
@@ -73,6 +108,8 @@ function openAnimatedSeries() {
     setTimeout(() => {
         AnimatedSeriesDialog.showModal();
     }, 500);
+
+    lachAnimatedSeries1992.play();
 }
 
 
@@ -105,6 +142,8 @@ function openDarkKnight() {
     setTimeout(() => {
         DarkKnightDialog.showModal();
     }, 500);
+
+    lachDarkKnight2008.play();
 }
 
 
@@ -121,6 +160,8 @@ function openSuicideSquad() {
     setTimeout(() => {
         SuicideSquadDialog.showModal();
     }, 500);
+
+    lachSuicideSquad2016.play();
 }
 
 
@@ -137,6 +178,8 @@ function openLegoBatman() {
     setTimeout(() => {
         LegoBatmanDialog.showModal();
     }, 500);
+
+    lachLego2017.play();
 }
 
 
@@ -153,6 +196,8 @@ function openGothamJerome() {
     setTimeout(() => {
         GothamJeromeDialog.showModal();
     }, 500);
+
+    lachGotham2017.play();
 }
 
 
@@ -169,4 +214,6 @@ function openJokerFilm() {
     setTimeout(() => {
         JokerFilmDialog.showModal();
     }, 500);
+
+    lachJokerFilm2019.play();
 }
