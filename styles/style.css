@@ -1,6 +1,15 @@
 /*************/
 /* CSS RESET */
 /*************/
+
+/* naar een idee van Jen Simmons */
+*, *::after, *::before {
+  box-sizing:border-box;  
+}
+
+/**************/
+/* FONTS */
+/* ********** */
 @font-face {
   font-family: 'whySoSerious';
   src: url('../fonts/bearpaw_-webfont.woff2') format('woff2'),
@@ -9,10 +18,7 @@
   font-style: normal;
   font-display: fallback; */
 }
-/* naar een idee van Jen Simmons */
-*, *::after, *::before {
-  box-sizing:border-box;  
-}
+
 
 
 
