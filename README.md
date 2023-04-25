@@ -140,3 +140,5 @@ Daarnaast heb ik al mijn code opgeschoond, geordend en comments toegevoegd, zoda
 - https://web.dev/building-a-dialog-component/
 
 - www.youtube.com voor sounds, specifiek staat in de code.
+
+- Voor het opnemen van het geluid gebruikte ik Sample. (in Chrome)
