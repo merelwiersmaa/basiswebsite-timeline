@@ -99,6 +99,12 @@ Update: het is gelukt met behulp van Sanne! (bleek natuurlijk heel simpel te zij
 
 Ook doet de backdrop-filter van de dialog het niet.
 
+Update: ook dit is met behulp van Sanne gelukt. blijkbaar was er iets waardoor safari niet luisterde naar de backdrop-filter en moest er -webkit-backdrop-filter geschreven worden, en nu doet ie het.
+
+**Dag 6: Werkzaamheden**
+
+
+
 **Bronvermelding:**
 
 - ![icons8-joker-dc-32](https://user-images.githubusercontent.com/83574654/232747592-245cac76-1e8e-4645-94a9-9fa317e1b7c2.png)
@@ -117,3 +123,5 @@ Ook doet de backdrop-filter van de dialog het niet.
 - DIALOG CODE: Bron van Sanne: https://codepen.io/shooft/pen/wvYgVKg
 
 - animatie css: https://codepen.io/merelwiersmaa/pen/wvYWWMe
+
+- https://web.dev/building-a-dialog-component/
