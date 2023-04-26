@@ -18,10 +18,17 @@
   font-family: 'whySoSerious';
   src: url('../fonts/bearpaw_-webfont.woff2') format('woff2'),
        url('../fonts/bearpaw_-webfont.woff') format('woff');
-  /* font-weight: normal;
-  font-style: normal;
-  font-display: fallback; */
+  /* font-weight: normal;      =
+  font-style: normal;          = Getypt door Sanne
+  font-display: fallback;      =    */   
 }
+
+@font-face {
+  font-family: 'tekstP';
+  src: url('../fonts/qarmic_sans_abridged-webfont.woff') format('woff'),
+       url('../fonts/qarmic_sans_abridged-webfont.woff2') format('woff2'); 
+}
+
 
 
 /*********************/
@@ -219,16 +226,35 @@ dialog::backdrop { /* Geblurrde achtergrond bij openen van dialog */
 
 
 dialog form {	
-	padding:1em;
+ padding-left: 2em;
+ padding-right: 2em;
 }
 
-dialog form h2,
+dialog form h2 {
+  margin-top: .5em;
+
+  font-family: whySoSerious;
+  font-size: 2em;
+  
+  color: var(--color-titelsKopjes);
+}
+
+h3 {
+  font-family: tekstP;
+}
+
 dialog form p {
-	
+	font-family: tekstP;
+  font-size: .7em;
 }
 
-dialog button {
-	font-size:1.5em;
+dialog img {
+  margin-top: 1em;
+
+  height: 14em;
+  width: 23em;
+
+  border-radius: .5em;
 }
 
 
@@ -240,11 +266,17 @@ dialog button {
 /* de close button nam automatisch de styling over van de originele buttons (kaarten)
 dus die moet ik hier 'resetten'. deze class geldt voor alle sluitknoppen van alle kaarten */
 .sluitKnop {
+  position: absolute; /* Zorgt dat de sluitknop (kruisje) helemaal rechtsbovenin staat */
+  top: .3em;
+  right:.3em;
+
   height: 1.5em;
   width: 1.5em;
 
   background-color: transparent;
-
+  color: var(--color-titelsKopjes);
+	font-size: 2.5em;
+  
   border-style: none;
   box-shadow: none;
 }
