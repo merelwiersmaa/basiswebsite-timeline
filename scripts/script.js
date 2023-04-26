@@ -32,8 +32,9 @@ var lachGotham2017 = new Audio("./sound/lachGotham2017.wav");
 var lachJokerFilm2019 = new Audio("./sound/lachJokerFilm2019.wav");
 
 //https://www.youtube.com/watch?v=PoyejjJGajk
-var whySoSerious = new Audio("./sound/whySoSerious.wav")
+var whySoSerious = new Audio("./sound/whySoSerious.wav");
 
+var muisKlik = new Audio("./sound/muisKlik.mp3");
 
 ///////////////////
 //HOVER H1/////////
@@ -47,6 +48,20 @@ heading.addEventListener("mouseover", audioWhySoSerious);
 function audioWhySoSerious() {
 
     whySoSerious.play();
+}
+
+///////////////////////////////////
+// MUISKLIK BUTTON SLUITEN DIALOG /
+//////////////////////////////////
+
+
+const sluitKnop = document.querySelector(".sluitKnop");
+
+sluitKnop.addEventListener("click", audioMuisKlik);
+
+function audioMuisKlik() {
+
+    muisKlik.play();
 }
 
 
