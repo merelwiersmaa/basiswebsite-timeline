@@ -2,7 +2,7 @@
  Mijn werk voor het vak Interface & Interactie.
 
 <details>
-<summary> **Dag 1: Animatie en concept keuze** </summary>
+<summary> Dag 1: Animatie en concept keuze</summary>
 
 Als eerst heb ik een beetje gespeeld met css animatie op codepen, nu zijn de basics weer opgehelderd voor mij en kan ik mij hier altijd nog verder in verdiepen. 
 
@@ -16,8 +16,8 @@ Inspiratie:
  
 </details>
 
-
-**Dag 2: Eerste idee voor mijn concept + feedback**
+<details>
+<summary> Dag 2: Eerste idee voor mijn concept + feedback </summary>
 
 <img width="731" alt="Screenshot 2023-04-18 at 09 41 40" src="https://user-images.githubusercontent.com/83574654/232706847-5f7e5b0a-33f3-43eb-8356-f7d5d36df03f.png">
 
@@ -32,7 +32,10 @@ Obstakel:
 
 Edit: dit is me gelukt door hiervan Buttons te maken en deze te stylen met flexbox.
 
-**Dag 3: Werkzaamheden**
+ </details>
+
+<details>
+<summary> Dag 3: Werkzaamheden </summary>
 
 Ik heb de rode tafel een tafelrand en inset shadows gegeven, zodat het een realistischere tafel wordt.
 <img width="1398" alt="Screenshot 2023-04-19 at 09 55 06" src="https://user-images.githubusercontent.com/83574654/233008674-03d95076-bd48-4e37-bbcb-762323d1e097.png">
@@ -50,7 +53,10 @@ Uiteindelijk heb ik een nieuwe, eigen variatie gemaakt wat ik wil gebruiken op m
 
 <img width="756" alt="Screenshot 2023-04-19 at 12 35 12" src="https://user-images.githubusercontent.com/83574654/233049146-77589324-a7ba-4598-abd7-7c6cc9628f12.png">
 
-**Dag 4: Werkzaamheden**
+ </details>
+
+<details>
+<summary> Dag 4: Werkzaamheden </summary>
 
 OBSTAKELS:
 
@@ -75,8 +81,12 @@ en wat me nu ook eindelijk gelukt is om een nieuw font te gebruiken op mijn pagi
 Uiteindelijk met behulp van Sanne kwamen we erachter dat de achtergrond niet goed gepakt werd omdat hij niet op een lokaal bestand stond en hem dus niet kon vinden. Nu is er in ieder geval wat te zien als achtergrond, maar moet het nog aangepast worden. (ook wordt de afbeelding van de cursor weergegeven, dat lukte eerst ook niet)
 
 <img width="1396" alt="Screenshot 2023-04-24 at 09 13 05" src="https://user-images.githubusercontent.com/83574654/233925143-92108dfd-7c8e-4dff-95ae-1ec19164749b.png">
+ 
+ </details>
 
-**Dag 5: Werkzaamheden & feedback** 
+<details>
+
+<summary> Dag 5: Werkzaamheden & feedback </summary>
 
 Feedback:
 
@@ -105,7 +115,10 @@ Ook doet de backdrop-filter van de dialog het niet.
 
 Update: ook dit is met behulp van Sanne gelukt. blijkbaar was er iets waardoor safari niet luisterde naar de backdrop-filter en moest er -webkit-backdrop-filter geschreven worden, en nu doet ie het.
 
-**Dag 6: Werkzaamheden**
+ </details>
+
+<details> 
+<summary> Dag 6: Werkzaamheden </summary>
 
 Ik heb bij alle Joker kaarten de dialog erin gezet en heb goed gelet op de benamingen van de functies en dergelijke, om niet in de war te raken. Nu ze het allemaal doen wordt het tijd om ze een voor een te stijlen, daar ga ik later aan beginnen. 
 
@@ -121,8 +134,10 @@ Ook de H1: Why so serious?! heeft een leuk hover effects gekregen met geluid van
 
 Daarnaast heb ik al mijn code opgeschoond, geordend en comments toegevoegd, zodat het er niet meer zo rommelig uitziet en het goed te begrijpen is.
 
+ </details>
 
-**Dag 7: Werkzaamheden en planning voor de meivakantie**
+<details>
+<summary> Dag 7: Werkzaamheden en planning voor de meivakantie </summary>
 
 Ik ga beginnen met het stijlen van de dialogs, hiervoor heb ik onder meer een nieuw font nodig:
 
@@ -140,10 +155,12 @@ Nu kan de pagina via github de afbeelding niet vinden, maar op mijn eigen server
 
 Met hulp van Sanne bleek dat de afbeelding via Github een ander pad nam en daarom niet kon laden, dus moest er in de code het pas aangepast worden, nu doen ze het weer :D
 
+</details>
 
 
 
-**Bronvermelding:**
+<details>
+<summary> Bronvermelding </summary>
 
 - ![icons8-joker-dc-32](https://user-images.githubusercontent.com/83574654/232747592-245cac76-1e8e-4645-94a9-9fa317e1b7c2.png)
 <a target="_blank" href="https://icons8.com/icon/77992/joker-dc">Joker DC</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
@@ -169,3 +186,6 @@ Met hulp van Sanne bleek dat de afbeelding via Github een ander pad nam en daaro
 - Voor het opnemen van het geluid gebruikte ik Sample. (in Chrome)
 
 - https://goldenagecomics.fandom.com/wiki/Joker#:~:text=Joker%20of%20Earth%2DTwo%20is,Golden%20Age%20of%20Comic%20Books
+ 
+ </details>
+
