@@ -156,3 +156,5 @@ Verbetering:
 - www.youtube.com voor sounds, specifiek staat in de code.
 
 - Voor het opnemen van het geluid gebruikte ik Sample. (in Chrome)
+
+- https://goldenagecomics.fandom.com/wiki/Joker#:~:text=Joker%20of%20Earth%2DTwo%20is,Golden%20Age%20of%20Comic%20Books
