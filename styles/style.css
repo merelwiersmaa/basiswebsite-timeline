@@ -161,6 +161,10 @@ button {
 /****************************/
 
 
+li>button:focus-visible {
+  border-style: double;
+}
+
 li>button:hover { /* Tijdens de hover */
   cursor: pointer;
   transform: translateY(-3em);
@@ -235,11 +239,11 @@ dialog form h2 {
 
   font-family: whySoSerious;
   font-size: 2em;
-  
+
   color: var(--color-titelsKopjes);
 }
 
-h3 {
+dialog form h3 {
   font-family: tekstP;
 }
 
@@ -248,7 +252,7 @@ dialog form p {
   font-size: .7em;
 }
 
-dialog img {
+dialog form img {
   margin-top: 1em;
 
   height: 14em;
