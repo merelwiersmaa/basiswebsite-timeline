@@ -2,8 +2,9 @@
  Mijn werk voor het vak Interface & Interactie.
 
 <details>
-<summary> Dag 1: Animatie en concept keuze</summary>
+<summary> #Dag 1: Animatie en concept keuze</summary>
 
+ 
 Als eerst heb ik een beetje gespeeld met css animatie op codepen, nu zijn de basics weer opgehelderd voor mij en kan ik mij hier altijd nog verder in verdiepen. 
 
 Ook heb ik GitHub Desktop opgezet voor mijn project, zodat ik op een makkelijke manier ten alle tijden mijn code kan pushen en deze nooit verloren gaat. 
