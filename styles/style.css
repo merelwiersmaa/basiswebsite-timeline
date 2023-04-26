@@ -162,7 +162,7 @@ button {
 
 
 li>button:focus-visible {
-  border-style: double;
+  outline: 2em var(--color-titelsKopjes);
 }
 
 li>button:hover { /* Tijdens de hover */
