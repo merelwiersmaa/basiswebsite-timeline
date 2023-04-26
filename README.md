@@ -134,6 +134,8 @@ Nu kan de pagina via github de afbeelding niet vinden, maar op mijn eigen server
 
 <img width="1247" alt="Screenshot 2023-04-26 at 10 49 15" src="https://user-images.githubusercontent.com/83574654/234522499-6835226a-701f-4493-a002-9e4bc9777493.png">
 
+Met hulp van Sanne bleek dat de afbeelding via Github een ander pad nam en daarom niet kon laden, dus moest er in de code het pas aangepast worden, nu doen ze het weer :D
+
 
 
 
