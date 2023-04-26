@@ -120,6 +120,10 @@ Daarnaast heb ik al mijn code opgeschoond, geordend en comments toegevoegd, zoda
 
 **Dag 7: Werkzaamheden en planning voor de meivakantie**
 
+Ik ga beginnen met het stijlen van de dialogs, hiervoor heb ik onder meer een nieuw font nodig:
+
+<img width="563" alt="Screenshot 2023-04-26 at 09 46 09" src="https://user-images.githubusercontent.com/83574654/234506078-8220b712-1323-4c5e-8b51-cf75c25702c6.png">
+
 
 **Bronvermelding:**
 
