@@ -290,6 +290,9 @@ dus die moet ik hier 'resetten'. deze class geldt voor alle sluitknoppen van all
   cursor: pointer;
 }
 
+.sluitKnop:focus-visible {
+  outline: groove .15em var(--color-titelsKopjes);
+}
 
 
 
