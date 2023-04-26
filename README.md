@@ -72,7 +72,7 @@ Uiteindelijk met behulp van Sanne kwamen we erachter dat de achtergrond niet goe
 
 <img width="1396" alt="Screenshot 2023-04-24 at 09 13 05" src="https://user-images.githubusercontent.com/83574654/233925143-92108dfd-7c8e-4dff-95ae-1ec19164749b.png">
 
-**Dag 5: Werkzaamheden & feedback **
+**Dag 5: Werkzaamheden & feedback** 
 
 Feedback:
 
@@ -118,6 +118,20 @@ Ook de H1: Why so serious?! heeft een leuk hover effects gekregen met geluid van
 Daarnaast heb ik al mijn code opgeschoond, geordend en comments toegevoegd, zodat het er niet meer zo rommelig uitziet en het goed te begrijpen is.
 
 
+**Dag 7: Werkzaamheden en planning voor de meivakantie**
+
+Ik ga beginnen met het stijlen van de dialogs, hiervoor heb ik onder meer een nieuw font nodig:
+
+<img width="563" alt="Screenshot 2023-04-26 at 09 46 09" src="https://user-images.githubusercontent.com/83574654/234506078-8220b712-1323-4c5e-8b51-cf75c25702c6.png">
+
+Verbetering:
+
+<img width="563" alt="Screenshot 2023-04-26 at 10 22 21" src="https://user-images.githubusercontent.com/83574654/234515262-8b651534-706b-4b4c-b6ea-f6caebb227ee.png">
+
+
+
+
+
 **Bronvermelding:**
 
 - ![icons8-joker-dc-32](https://user-images.githubusercontent.com/83574654/232747592-245cac76-1e8e-4645-94a9-9fa317e1b7c2.png)
@@ -140,3 +154,5 @@ Daarnaast heb ik al mijn code opgeschoond, geordend en comments toegevoegd, zoda
 - https://web.dev/building-a-dialog-component/
 
 - www.youtube.com voor sounds, specifiek staat in de code.
+
+- Voor het opnemen van het geluid gebruikte ik Sample. (in Chrome)
