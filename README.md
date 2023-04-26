@@ -1,4 +1,5 @@
-# basiswebsite-timeline
+![icons8-joker-dc-color-96](https://user-images.githubusercontent.com/83574654/234541723-fa2dcc89-8bda-4b01-9391-8592d9931122.png)
+ # basiswebsite-timeline
  Mijn werk voor het vak Interface & Interactie.
 
 <details>
