@@ -87,6 +87,8 @@ function openGoldenAge() {
     setTimeout(() => {
         GoldenAgeDialog.showModal();
     }, 500); // 500 ms = 0.5 sec
+
+    muisKlik.play();
 }
 
 //De volgende code's zijn precies hetzelfde, maar dan met andere benamingen voor hun eigen Jokerkaart.
@@ -109,6 +111,7 @@ function openTVshow() {
     }, 500);
 
     lachTVshow1966.play();
+    muisKlik.play();
 }
 
 
@@ -128,6 +131,7 @@ function openTimBurton() {
     }, 500);
 
     lachTimBurton1989.play();
+    muisKlik.play();
 }
 
 
@@ -147,6 +151,7 @@ function openAnimatedSeries() {
     }, 500);
 
     lachAnimatedSeries1992.play();
+    muisKlik.play();
 }
 
 
@@ -164,6 +169,8 @@ function openAlexRoss() {
     setTimeout(() => {
         AlexRossDialog.showModal();
     }, 500);
+
+    muisKlik.play();
 }
 
 
@@ -183,6 +190,7 @@ function openDarkKnight() {
     }, 500);
 
     lachDarkKnight2008.play();
+    muisKlik.play();
 }
 
 
@@ -202,6 +210,7 @@ function openSuicideSquad() {
     }, 500);
 
     lachSuicideSquad2016.play();
+    muisKlik.play();
 }
 
 
@@ -221,6 +230,7 @@ function openLegoBatman() {
     }, 500);
 
     lachLego2017.play();
+    muisKlik.play();
 }
 
 
@@ -240,6 +250,7 @@ function openGothamJerome() {
     }, 500);
 
     lachGotham2017.play();
+    muisKlik.play();
 }
 
 
@@ -259,4 +270,5 @@ function openJokerFilm() {
     }, 500);
 
     lachJokerFilm2019.play();
+    muisKlik.play();
 }
