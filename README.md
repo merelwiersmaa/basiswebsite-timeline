@@ -1,6 +1,7 @@
 # basiswebsite-timeline
  Mijn werk voor het vak Interface & Interactie.
 
+<details>
 <summary>**Dag 1: Animatie en concept keuze**</summary>
 
 Als eerst heb ik een beetje gespeeld met css animatie op codepen, nu zijn de basics weer opgehelderd voor mij en kan ik mij hier altijd nog verder in verdiepen. 
@@ -12,6 +13,9 @@ Voor mijn concept twijfelde ik tussen Mario en Joker. Ik kies voor Joker, omdat 
 Inspiratie:
 
 <img width="796" alt="Screenshot 2023-04-18 at 09 44 13" src="https://user-images.githubusercontent.com/83574654/232707637-af421d8f-41c0-417a-af02-6cc9f5d08cee.png">
+ 
+</details>
+
 
 **Dag 2: Eerste idee voor mijn concept + feedback**
 
