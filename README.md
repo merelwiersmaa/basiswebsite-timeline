@@ -126,7 +126,8 @@ Ik ga beginnen met het stijlen van de dialogs, hiervoor heb ik onder meer een ni
 
 Verbetering:
 
-<img width="563" alt="Screenshot 2023-04-26 at 10 19 37" src="https://user-images.githubusercontent.com/83574654/234514569-d66b9924-7739-45fc-97f2-77dd55e9eab9.png">
+<img width="563" alt="Screenshot 2023-04-26 at 10 22 21" src="https://user-images.githubusercontent.com/83574654/234515262-8b651534-706b-4b4c-b6ea-f6caebb227ee.png">
+
 
 
 
