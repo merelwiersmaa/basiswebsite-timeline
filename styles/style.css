@@ -162,7 +162,9 @@ button {
 
 
 li>button:focus-visible {
-  outline: 2em var(--color-titelsKopjes);
+  outline: solid .25em var(--color-titelsKopjes);
+  outline-offset: -.5em;
+  /* box-shadow: 0 0 0 2em var(--color-titelsKopjes); */
 }
 
 li>button:hover { /* Tijdens de hover */
