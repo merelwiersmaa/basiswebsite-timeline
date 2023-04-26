@@ -118,6 +118,9 @@ Ook de H1: Why so serious?! heeft een leuk hover effects gekregen met geluid van
 Daarnaast heb ik al mijn code opgeschoond, geordend en comments toegevoegd, zodat het er niet meer zo rommelig uitziet en het goed te begrijpen is.
 
 
+**Dag 7: Werkzaamheden en planning voor de meivakantie**
+
+
 **Bronvermelding:**
 
 - ![icons8-joker-dc-32](https://user-images.githubusercontent.com/83574654/232747592-245cac76-1e8e-4645-94a9-9fa317e1b7c2.png)
