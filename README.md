@@ -128,6 +128,11 @@ Verbetering:
 
 <img width="563" alt="Screenshot 2023-04-26 at 10 22 21" src="https://user-images.githubusercontent.com/83574654/234515262-8b651534-706b-4b4c-b6ea-f6caebb227ee.png">
 
+Nieuw obstakel:
+
+Nu kan de pagina via github de afbeelding niet vinden, maar op mijn eigen server blijft hij het gewoon doen..
+
+<img width="1247" alt="Screenshot 2023-04-26 at 10 49 15" src="https://user-images.githubusercontent.com/83574654/234522499-6835226a-701f-4493-a002-9e4bc9777493.png">
 
 
 
