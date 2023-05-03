@@ -197,5 +197,8 @@ Met hulp van Sanne bleek dat de afbeelding via Github een ander pad nam en daaro
  
 - https://dc.fandom.com/wiki/Joker_(Batman_1966_TV_Series)
  
+- https://batman.fandom.com/wiki/The_Joker_(Burtonverse)
+ 
+ 
  </details>
 
