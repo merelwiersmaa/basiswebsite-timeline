@@ -195,5 +195,7 @@ Met hulp van Sanne bleek dat de afbeelding via Github een ander pad nam en daaro
 
 - https://goldenagecomics.fandom.com/wiki/Joker#:~:text=Joker%20of%20Earth%2DTwo%20is,Golden%20Age%20of%20Comic%20Books
  
+- https://dc.fandom.com/wiki/Joker_(Batman_1966_TV_Series)
+ 
  </details>
 
