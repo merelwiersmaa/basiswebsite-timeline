@@ -199,6 +199,7 @@ Met hulp van Sanne bleek dat de afbeelding via Github een ander pad nam en daaro
  
 - https://batman.fandom.com/wiki/The_Joker_(Burtonverse)
  
- 
+- https://batmantheanimatedseries.fandom.com/wiki/Joker
+
  </details>
 
