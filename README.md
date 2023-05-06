@@ -201,5 +201,8 @@ Met hulp van Sanne bleek dat de afbeelding via Github een ander pad nam en daaro
  
 - https://batmantheanimatedseries.fandom.com/wiki/Joker
 
+- https://joker-eruri.tumblr.com/post/158516037193/alex-ross-joker-character-study-sketch-pencils
+ 
+- https://screenrant.com/joker-cosplay-alex-ross-art-live-action/
  </details>
 
