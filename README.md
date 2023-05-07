@@ -209,5 +209,7 @@ Met hulp van Sanne bleek dat de afbeelding via Github een ander pad nam en daaro
 
 - https://movieweb.com/harley-quinn-joker-suicide-squad-best-moments/#in-the-club
  
+- https://dcextendeduniverse.fandom.com/wiki/Joker
+ 
  </details>
 
