@@ -211,5 +211,9 @@ Met hulp van Sanne bleek dat de afbeelding via Github een ander pad nam en daaro
  
 - https://dcextendeduniverse.fandom.com/wiki/Joker
  
+- https://batman.fandom.com/wiki/The_Lego_Batman_Movie
+ 
+- https://thelegomovie.fandom.com/wiki/The_Joker
+ 
  </details>
 
