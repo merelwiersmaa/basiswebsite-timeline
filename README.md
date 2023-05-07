@@ -166,7 +166,7 @@ Met hulp van Sanne bleek dat de afbeelding via Github een ander pad nam en daaro
 </details>
 
 <details>
-<summary> Laatste stappen <summary/>
+<summary> Laatste stappen </summary>
 
 Voor de laatste stappen heb ik gedaan wat ik zou doen in de meivakantie; de rest van de dialogs vullen en eventueel wat extra's. Om de dialogs te vullen met informatie over de bijbehorende Jokers, ben ik veel onderzoek gaan doen en veel gaan lezen etc. waardoor het veel tijd kostte. Uiteindelijk is het af, alleen heb ik geen tijd meer om wat extra's erbij te maken, maar ik denk ook niet dat dit nodig was. Voordat ik mijn laatste versie push naar Github heb ik een vriendin/oud klasgenootje Mila gevraagd om mij nog een laatste keer feedback te geven:
 	
