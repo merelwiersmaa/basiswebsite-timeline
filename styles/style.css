@@ -75,7 +75,7 @@ h1 {
   padding-left: .5em;
 
   font-family: whySoSerious, fantasy; /* Mocht het whySoSerious font niet kunnen op de browser, dan pakt hij de fantasy */
-  font-size: 5em;
+  font-size: 6.2em;
 
   color:var(--color-titelsKopjes);
   text-shadow: 0em 0em 1.5em black;
@@ -164,12 +164,14 @@ button {
 li>button:focus-visible {
   outline: groove .25em var(--color-titelsKopjes);
   outline-offset: -.5em;
+  color: var(--color-titelsKopjes);
 }
 
 li>button:hover { /* Tijdens de hover */
   cursor: pointer;
   transform: translateY(-3em);
   transition-duration: .3s;
+  color: var(--color-titelsKopjes);
 }
 
 
