@@ -185,7 +185,8 @@ Wat mijn ontwerp passend maakt aan het Joker karakter is het idee van het kaarts
 
 Door de jaren heen komt iedere Joker op hetzelfde neer, maar toch zitten er verschillen in uiterlijk, stem en origine. Dit heb ik achter elke kaart verteld en zo kun je de verschillen en unieke aspecten van iedere Joker lezen. Om hier nog meer dimensie aan te geven, heb ik bij iedere Joker zijn eigen kwaadaardige lach laten afspelen bij het openen van de kaarten. Zo krijg je nog beter een idee erbij. De inspiratie van de kaarttafel kwam van diverse fan-art afbeeldingen, waarin alle 'generaties' Jokers er omheen zaten te kaarten. 
 	
-	![eindproduct](https://user-images.githubusercontent.com/83574654/236690510-34749301-6073-4801-8035-6aae4ff8f36e.png)
+
+<img width="1079" alt="Screenshot 2023-05-07 at 18 38 24" src="https://user-images.githubusercontent.com/83574654/236690655-39b25c62-7741-4ce2-91a2-e0dd7c25969a.png">
 
 
 </details>
