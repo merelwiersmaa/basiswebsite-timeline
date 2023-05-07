@@ -220,7 +220,8 @@ Met hulp van Sanne bleek dat de afbeelding via Github een ander pad nam en daaro
 - https://gotham.fandom.com/wiki/Jerome_Valeska 
 
 - https://villains.fandom.com/wiki/Jerome_Valeska 
-						<p>
+						
+- https://dcmovies.fandom.com/wiki/Arthur_Fleck
  
  </details>
 
