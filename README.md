@@ -168,9 +168,24 @@ Met hulp van Sanne bleek dat de afbeelding via Github een ander pad nam en daaro
 <details>
 <summary> Laatste stappen </summary>
 
-Voor de laatste stappen heb ik gedaan wat ik zou doen in de meivakantie; de rest van de dialogs vullen en eventueel wat extra's. Om de dialogs te vullen met informatie over de bijbehorende Jokers, ben ik veel onderzoek gaan doen en veel gaan lezen etc. waardoor het veel tijd kostte. Uiteindelijk is het af, alleen heb ik geen tijd meer om wat extra's erbij te maken, maar ik denk ook niet dat dit nodig was. Voordat ik mijn laatste versie push naar Github heb ik een vriendin/oud klasgenootje Mila gevraagd om mij nog een laatste keer feedback te geven:
+Voor de laatste stappen heb ik gedaan wat ik zou doen in de meivakantie; de rest van de dialogs vullen en eventueel wat extra's. Om de dialogs te vullen met informatie over de bijbehorende Jokers, ben ik veel onderzoek gaan doen en veel gaan lezen etc. waardoor het veel tijd kostte. Uiteindelijk is het af, alleen heb ik geen tijd meer om wat extra's erbij te maken, maar ik denk ook niet dat dit nodig was. Ik ben ook blij dat ik wat laatste aanpassingen gedaan heb aan de hover state en focus-visible state. 
+	
+Voordat ik mijn laatste versie push naar Github heb ik een vriendin/oud klasgenootje Mila gevraagd om mij nog een laatste keer feedback te geven:
 	
 <img width="350" alt="Screenshot 2023-05-07 at 18 07 47" src="https://user-images.githubusercontent.com/83574654/236689279-d6af43bd-d258-4b21-b347-176c41e0c11e.png">
+
+
+</details>
+
+
+<details>
+	<summary> Eindproduct </summary>
+Ik ben blij met wat het geworden is, omdat het er simpel uitziet maar tóch wel veel is als je eenmaal de kaarten 'opent'. (De progressive disclosure)
+Wat mijn ontwerp passend maakt aan het Joker karakter is het idee van het kaartspel, want daar komt hij natuurlijk uit voort en wordt soms in de films gebruikt als iets kenmerkends van hem (denk aan de joker kaart die achtergelaten werd in de laatste scene van Batman Begins, waarmee de Joker werd geintroduceerd voor het eerstvolgende deel). De achtergrondafbeelding geeft ook aan dat je aan het 'spelen' bent met de Joker zelf. Als je goed kijkt zie je dat hij een jokerkaart (die van Batman Begins) in zijn hand heeft. Bij een normaal kaartspel betekent dat je dus eigenlijk genaaid wordt met de jokerkaart, en dat is ook precies wat de Joker wilt. Op de achtergrond zie je het Batman-beacon, wat aangeeft dat er hulp tegemoet komt.
+
+Door de jaren heen komt iedere Joker op hetzelfde neer, maar toch zitten er verschillen in uiterlijk, stem en origine. Dit heb ik achter elke kaart verteld en zo kun je de verschillen en unieke aspecten van iedere Joker lezen. Om hier nog meer dimensie aan te geven, heb ik bij iedere Joker zijn eigen kwaadaardige lach laten afspelen bij het openen van de kaarten. Zo krijg je nog beter een idee erbij. De inspiratie van de kaarttafel kwam van diverse fan-art afbeeldingen, waarin alle 'generaties' Jokers er omheen zaten te kaarten. 
+	
+	![eindproduct](https://user-images.githubusercontent.com/83574654/236690510-34749301-6073-4801-8035-6aae4ff8f36e.png)
 
 
 </details>
