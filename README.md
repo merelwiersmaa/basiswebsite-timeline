@@ -206,6 +206,10 @@ Met hulp van Sanne bleek dat de afbeelding via Github een ander pad nam en daaro
 - https://screenrant.com/joker-cosplay-alex-ross-art-live-action/
  
 - https://batman.fandom.com/wiki/The_Joker_(Nolanverse)
+
+- https://movieweb.com/harley-quinn-joker-suicide-squad-best-moments/#in-the-club
+ 
+- https://dcextendeduniverse.fandom.com/wiki/Joker
  
  </details>
 
