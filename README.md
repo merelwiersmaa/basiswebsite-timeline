@@ -214,6 +214,13 @@ Met hulp van Sanne bleek dat de afbeelding via Github een ander pad nam en daaro
 - https://batman.fandom.com/wiki/The_Lego_Batman_Movie
  
 - https://thelegomovie.fandom.com/wiki/The_Joker
+
+- https://www.digitalspy.com/tv/ustv/a857632/gotham-joker-explained-cameron-monaghan/#:~:text=Jerome%20wasn't%20one%20of,face%20and%20'became'%20Jerome.
+
+- https://gotham.fandom.com/wiki/Jerome_Valeska 
+
+- https://villains.fandom.com/wiki/Jerome_Valeska 
+						<p>
  
  </details>
 
